@@ -1,0 +1,201 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:07] 
+[23:34:07] Server Plugins
+[23:34:07] --------------
+[23:34:07]  Loading plugin: crashdetect
+[23:34:07]   CrashDetect plugin 4.20
+[23:34:07]   Loaded.
+[23:34:07]  Loading plugin: arz
+[23:34:07]  * arz 1.2 patched samp03svr successfully.
+[23:34:07]   Loaded.
+[23:34:07]  Loading plugin: fmt
+[23:34:07]  * fmt plugin loaded
+[23:34:07]  * v2.1 (c) vsergeenko
+[23:34:07]   Loaded.
+[23:34:07]  Loading plugin: LauncherAddon
+[23:34:07] 
+[23:34:07]  crack by legendabrn LauncherAddon 1.3
+[23:34:07]    
+[23:34:07]    Версия сервера: 0.3.7 R2
+[23:34:07]    Операционная система: Windows
+[23:34:07]    
+[23:34:07]    
+[23:34:07]    Проверка активации...
+[23:34:07]    Проверка активации успешно пройдена
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:20] 
+[23:34:20] Server Plugins
+[23:34:20] --------------
+[23:34:20]  Loading plugin: crashdetect
+[23:34:20]   CrashDetect plugin 4.20
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: arz
+[23:34:20]  * arz 1.2 patched samp03svr successfully.
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: fmt
+[23:34:20]  * fmt plugin loaded
+[23:34:20]  * v2.1 (c) vsergeenko
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: dontLimitedVehicles
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: mapandreas
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: mysql
+[23:34:20]   Failed.
+[23:34:20]  Loading plugin: pawncmd
+[23:34:20] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: pawnraknet
+[23:34:20] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 14:19:11
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: sscanf
+[23:34:20] 
+
+[23:34:20]  ===============================
+
+[23:34:20]       sscanf plugin loaded.     
+
+[23:34:20]          Version:  2.8.3        
+
+[23:34:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:34:20]  ===============================
+
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: streamer
+[23:34:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: TOTP
+[23:34:20] TOTP plugin v1.0.1 by Games loaded.
+[23:34:20]   Loaded.
+[23:34:20]  Loading plugin: YSF
+[23:34:20] 
+[23:34:20]  ==============================================
+[23:34:20]  YSF 2.1 (compiled Nov 14 2020 15:42:22) loaded
+[23:34:20]   (c) 2008 Alex "Y_Less" Cole
+[23:34:20]   (c) 2010 - 2018 kurta999
+[23:34:20]   (c) 2018 - 2020 IllidanS4
+[23:34:20]  Server version: 0.3.7 R2-1 or R2-2, Windows
+[23:34:20]  ==============================================
+[23:34:20] 
+[23:34:20]   Loaded.
+[23:34:21]  Loaded 11 plugins.
+
+[23:34:21] 
+[23:34:21] Filterscripts
+[23:34:21] ---------------
+[23:34:21]   Loading filterscript 'attached.amx'...
+[23:34:21]   Loading filterscript 'map.amx'...
+[23:34:21] LoadMap загрузился за 150 ms
+[23:34:21]   Loading filterscript 'other.amx'...
+[23:34:21]   Loaded 3 filterscripts.
+
+[23:34:22] [debug] Run time error 19: "File or function is not found"
+[23:34:22] [debug]  mysql_query
+[23:34:22] [debug]  cache_get_row_count
+[23:34:22] [debug]  cache_delete
+[23:34:22] [debug]  cache_get_row_int
+[23:34:22] [debug]  cache_get_row
+[23:34:22] [debug]  cache_get_field_content_int
+[23:34:22] [debug]  mysql_escape_string
+[23:34:22] [debug]  cache_insert_id
+[23:34:22] [debug]  cache_get_field_content_float
+[23:34:22] [debug]  cache_get_field_content
+[23:34:22] [debug]  mysql_tquery
+[23:34:22] [debug]  cache_get_row_float
+[23:34:22] [debug]  cache_get_data
+[23:34:22] [debug]  mysql_connect
+[23:34:22] [debug]  mysql_set_charset
+[23:34:22] [debug]  mysql_errno
+[23:34:22] [debug]  mysql_format
+[23:34:22] [debug]  mysql_close
+[23:34:22] [debug]  SetLauncherStatus
+[23:34:22] [debug]  GetLauncherStatus
+[23:34:22] [debug] Run time error 19: "File or function is not found"
+[23:34:22] [debug]  mysql_query
+[23:34:22] [debug]  cache_get_row_count
+[23:34:22] [debug]  cache_delete
+[23:34:22] [debug]  cache_get_row_int
+[23:34:22] [debug]  cache_get_row
+[23:34:22] [debug]  cache_get_field_content_int
+[23:34:22] [debug]  mysql_escape_string
+[23:34:22] [debug]  cache_insert_id
+[23:34:22] [debug]  cache_get_field_content_float
+[23:34:22] [debug]  cache_get_field_content
+[23:34:22] [debug]  mysql_tquery
+[23:34:22] [debug]  cache_get_row_float
+[23:34:22] [debug]  cache_get_data
+[23:34:22] [debug]  mysql_connect
+[23:34:22] [debug]  mysql_set_charset
+[23:34:22] [debug]  mysql_errno
+[23:34:22] [debug]  mysql_format
+[23:34:22] [debug]  mysql_close
+[23:34:22] [debug]  SetLauncherStatus
+[23:34:22] [debug]  GetLauncherStatus
+[23:34:22] Script[gamemodes/arizonarp.amx]: Run time error 19: "File or function is not found"
+[23:34:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:53] 
+[23:34:53] Server Plugins
+[23:34:53] --------------
+[23:34:53]  Loading plugin: crashdetect
+[23:34:53]   CrashDetect plugin 4.20
+[23:34:53]   Loaded.
+[23:34:53]  Loading plugin: arz
+[23:34:53]  * arz 1.2 patched samp03svr successfully.
+[23:34:53]   Loaded.
+[23:34:53]  Loading plugin: fmt
+[23:34:53]  * fmt plugin loaded
+[23:34:53]  * v2.1 (c) vsergeenko
+[23:34:53]   Loaded.
+[23:34:53]  Loading plugin: LauncherAddon
+[23:34:53] 
+[23:34:53]  crack by legendabrn LauncherAddon 1.3
+[23:34:53]    
+[23:34:53]    Версия сервера: 0.3.7 R2
+[23:34:53]    Операционная система: Windows
+[23:34:53]    
+[23:34:53]    
+[23:34:53]    Проверка активации...
+[23:34:53]    Проверка активации успешно пройдена
